@@ -68,13 +68,10 @@ i:hover {
   .box {
     width: 49%;
   }
-  .i {
-    width: 100%;
-  }
 }
 
 @media (max-width: 480px) {
   .box {
-    width: 24%;
+    width: 100%;
   }
 }
